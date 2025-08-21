@@ -13,7 +13,3 @@ Built using **Node.js**, **Express**, and **MongoDB (Mongoose)**.
 - Update a product by ID
 - Delete a product by ID
 - MongoDB connection (local or Atlas)
-
----
-
-## Project Structure
